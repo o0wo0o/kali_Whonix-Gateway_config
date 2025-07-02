@@ -1,0 +1,1 @@
+# kali_Whonix-Gateway_config
